@@ -1,0 +1,5 @@
+bin/
+*.tmp
+*.log
+.DS_Store
+craft_commits.sh
